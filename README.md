@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 我一直都是接触一下没学过最喜欢的事情就是折腾博客
 
-从13年接触到WordPress到后面emlog/hexo/minicms/zblog/typecho一直折腾没停过
+从13年接触到`WordPress`到后面`emlog/hexo/minicms/zblog/typecho`一直折腾没停过
 
 ## Github Stats
 
