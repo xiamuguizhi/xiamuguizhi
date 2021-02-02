@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 介绍
+
 90后阿宅一枚,福建三明尤溪人士
 
 性别：男
@@ -25,14 +27,18 @@ Here are some ideas to get you started:
 
 爱好：喜欢看日剧丶爬山丶日综丶动漫丶常驻B站丶逛知乎丶夜间行动爱好者,喜欢接触大自然,能让我安心
 
-工作
+## 工作
+
 （13年）餐厅服务员 - （14年）线路维护员 - （15-16年）大理石加工员 - （18-19年）电子厂流水线员工- （20年7月-11月）远洋渔船俄罗斯海域
 
-技能
+## 技能
+
 不会写代码什么css php html，
 
 我一直都是接触一下没学过最喜欢的事情就是折腾博客
 
 从13年接触到WordPress到后面emlog/hexo/minicms/zblog/typecho一直折腾没停过
+
+## Github Stats
 
 <a href="https://github.com/xiamuguizhi"><img src="https://github-readme-stats.vercel.app/api?username=xiamuguizhi&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
