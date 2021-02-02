@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 从13年接触到WordPress到后面emlog/hexo/minicms/zblog/typecho一直折腾没停过
 
-<a href="https://github.com/xiamuguizhi"><img src="https://github-readme-stats.vercel.app/api?username=renbaoshuo&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
+<a href="https://github.com/xiamuguizhi"><img src="https://github-readme-stats.vercel.app/api?username=xiamuguizhi&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
