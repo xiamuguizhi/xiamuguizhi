@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/xiamuguizhi"><img src="https://github-readme-stats.vercel.app/api?username=xiamuguizhi&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
 
-### Hi there, I'm Fabian 👋
 
-### Languages and Tools:
+
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -65,5 +65,3 @@ Here are some ideas to get you started:
 <br />
 
 ---
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=fabianlee1211&show_icons=true&cache_seconds=86400&theme=midnight-purple" />
-
