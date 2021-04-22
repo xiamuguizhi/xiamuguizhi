@@ -1,4 +1,4 @@
-### Hi there 👋
+xiamu### Hi there 👋
 
 <!--
 **xiamuguizhi/xiamuguizhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/xiamuguizhi"><img src="https://github-readme-stats.vercel.app/api?username=xiamuguizhi&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiamuguizhi&show_icons=true&locale=en&layout=compact&hide=html&langs_count=20" /></p>
+32
 
 
 ## Languages and Tools:
