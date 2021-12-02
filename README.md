@@ -62,6 +62,29 @@ Hobbies: like watching Japanese dramas, climbing mountains, Japanese TV series, 
 
 (13 years) restaurant waiter-(14 years) line maintainer-(15-16 years) marble processing worker-(18-19 years) electronic factory assembly line employee-(July-November 20) ocean-going fishing vessel in Russian waters
 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
+
+
+                                   Too young, too simple. Sometimes, naive.
+
+
+
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ## 技能
 
 I don’t know how to write code css php html,
@@ -103,26 +126,4 @@ From contact with `WordPress` in 13 years to `emlog/hexo/minicms/zblog/typecho`,
 <a href="https://github.com/xiamuguizhi"><img src="https://github-readme-stats.vercel.app/api?username=xiamuguizhi&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiamuguizhi&show_icons=true&locale=en&layout=compact&hide=html&langs_count=20" /></p>
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-
-
-
-
-
-                                   Too young, too simple. Sometimes, naive.
-
-
-
-
-
-
-
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
