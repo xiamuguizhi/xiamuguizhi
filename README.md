@@ -104,3 +104,25 @@ From contact with `WordPress` in 13 years to `emlog/hexo/minicms/zblog/typecho`,
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiamuguizhi&show_icons=true&locale=en&layout=compact&hide=html&langs_count=20" /></p>
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
+
+
+                                   Too young, too simple. Sometimes, naive.
+
+
+
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
