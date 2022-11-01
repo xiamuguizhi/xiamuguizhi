@@ -7,7 +7,7 @@
 
 性格：腹黑丶自卑丶虚伪丶老好人丶高度敏感人格丶精神分裂？表演型人格?丶懒癌晚期丶性格缺陷丶喜欢刷存在感丶缺爱丶懦弱胆小怕事丶胡思乱想丶怕生丶社交恐惧症丶害怕别人背地里说我
 
-病症：全身性多汗症患者，腰间盘突出患者，轻微忧郁症患者，汗斑
+病症：全身性多汗症患者，腰间盘突出患者，轻微忧郁症患者，汗斑，焦虑症
 
 爱好：喜欢看日剧丶爬山丶日综丶动漫丶常驻B站丶逛知乎丶夜间行动爱好者,喜欢接触大自然,能让我安心
 
@@ -23,7 +23,7 @@
 
 我一直都是接触一下没学过最喜欢的事情就是折腾博客
 
-从13年接触到`WordPress`到后面`emlog/hexo/minicms/zblog/typecho`一直折腾没停过
+从10年接触到`asp`网站程序，再到11年接触到`phpwin`论坛程序，再到12年接触都到`熊海ASP博客`程序，然后从13年接触到`WordPress`到后面`emlog/hexo/minicms/zblog/typecho/TP-log/Tinyblog`一直折腾没停过
 
 ## 折腾记录
 
@@ -158,7 +158,7 @@ ps: 2016年忙于打工赚钱也没时间折腾网站了，也导致了17年 `�
     
 * 2020.03.17 注册域名 `jiba.icu` 1年
     
-* 2020.07.10 7月出海`远洋渔船`（俄罗斯海域），博客关闭
+* 2020.07.10 7月出海`远洋渔船`（[俄罗斯海域](https://weebs.neocities.org/article/22.html)），博客关闭
     
 * 2020.12.01 `[ 11月21日回国]` 博客重新开通
     
@@ -201,15 +201,39 @@ ps: 2016年忙于打工赚钱也没时间折腾网站了，也导致了17年 `�
 
 22年又开始了我的躺平日常，对于一些想法越来越强烈
 
+ * 2022.06.xx 因为某些原因开始自闭了，博客停止更新
+
+ * 2022.08.03 自闭两个月，身体患上“[汗斑](https://baike.baidu.com/item/%E8%8A%B1%E6%96%91%E7%B3%A0%E7%96%B9/9121483?fromtitle=%E6%B1%97%E6%96%91&fromid=5411042&fr=aladdin)”，在医生的建议下重新出门
+
  * 2022.08.11 因备案问题，在 “[呆哥][11]” 的帮助下，成功迁移到腾讯香港服务器 `2H2G`
  
  * 2022.08.15 购买Typecho主题`LanternTown` 版权，移植主题到`Tinyblog`
  
- * 2022.08.28 因为评论某些原因，博客转型为 `三言两语` 微博类型，评论关闭不在开放
+ * 2022.08.26 遭到“恶意评论”打击，博客关闭，不在开放
+ 
+ * 2022.08.28 因为之前评论某些原因，博客转型为 `三言两语` 微博类型，评论关闭不在开放，原先博客文章“封存”
  
  * 2022.10.04 十月四号服务器遭受DDos攻击，博客关闭两天
  
  * 2022.10.06 前些天突发奇想，经过一系列的折腾，又对博客程序进行修改，使用了新的分页方式，现在能支持大量文章而不卡顿
+
+ * 2022.10.07 给新的博客程序,移植了`zhangjet大佬`开发的主题“[icarus-lite](https://github.com/airinghost/hugo-theme-icarus-lite/discussions/1)”其实很久之前就想移植了，拖到了今天
+ 
+ * 2022.10.09 更换了“后台界面”，整合到一个`index.php`文件了，我想博客程序应该有个新的名字`kailite`意味简洁，`kai`当然是我呀😄
+
+ * 2022.10.13 开始折腾给博客添加“文章关键词搜索功能”
+
+ * 2022.10.15 “文章关键词搜索功能”折腾完毕，启用
+
+ * 2022.10.16 跑步的时候突然有个想法，想折腾“文本存储评论功能”，于是又开始折腾了
+
+ * 2022.10.24 历时八天折腾，博客“评论功能”折腾完毕，在本地进行细节调整
+
+ * 2022.10.25 在“杜老师”推荐下，使用“[天御云高防CDN](https://tyucdn.com/)”并更换域名为“QQ.MD”博客再次起航
+
+ * 2022.10.26 为了“防止恶意评论”评论区开启“评论密码”才能评论
+
+ * 2022.10.27 迁移“Artalk评论数据”和“之前封存的文章”到独属于自己的博客系统“Tkblog”，实现了完全整合😄
 
 ### 为什么取名叫”夏目友人帐”呢？
 
@@ -228,9 +252,8 @@ ps: 2016年忙于打工赚钱也没时间折腾网站了，也导致了17年 `�
  *   2022.04.09 启用主题 "[Anghunk](https://github.com/zburu/Anghunk)" 
  *   2022.05.03 启用主题 "[johnslipper](https://www.johnslipper.com/)" 
  *   2022.08.15 启用主题 "[LanternTown](https://www.lanterntown.top/)" 
- *   2022.08.15 启用主题 "[LanternTown](https://www.lanterntown.top/)" 
  *   2022.09.02 启用主题 "[yang99](https://yang99.fun/)" 
- *   2022.09.02 启用主题 "[Icarus-Lite](https://github.com/airinghost/hugo-theme-icarus-lite)" 
+ *   2022.10.07 启用主题 "[Icarus-Lite](https://github.com/airinghost/hugo-theme-icarus-lite)" 
 
 你为什么不让你的网站看起来很现代？我是“内容提供商”而不是网站设计师。我可以利用时间来改善内容或外观，但不能同时改善两者。对某人来说看起来“酷和现代”的东西通常被别人认为是不好的品味，时尚变化很快。此外，非常简单的HTML下载和显示速度比其他任何东西都快，许多人仍然遭受慢速网络连接。（`引用自c++之父`）
 
@@ -252,7 +275,7 @@ ps: 2016年忙于打工赚钱也没时间折腾网站了，也导致了17年 `�
  - [typecho-for-Pure](https://github.com/xiamuguizhi/typecho-for-Pure)
  - [typecho-page-photo](https://github.com/xiamuguizhi/typecho-page-photo)
  - [Typecho-BackToTop](https://github.com/xiamuguizhi/Typecho-BackToTop)
-
+ - [TP-log_theme_krait](https://github.com/xiamuguizhi/TP-log_theme_krait)
 
   [1]: https://lsybk.xyz/
   [2]: Typecho-BackToTop
@@ -265,10 +288,4 @@ ps: 2016年忙于打工赚钱也没时间折腾网站了，也导致了17年 `�
   [9]: https://github.com/xiamuguizhi/typecho-page-photo
   [10]: https://lsybk.xyz/
   [11]: https://bo.ke/
-  
-## Github Stats
-
-<a href="https://github.com/xiamuguizhi"><img src="https://github-readme-stats.vercel.app/api?username=xiamuguizhi&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"></a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiamuguizhi&show_icons=true&locale=en&layout=compact&hide=html&langs_count=20" /></p>
 
