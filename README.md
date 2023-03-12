@@ -22,5 +22,3 @@
 不会写代码什么`css` `php` `html`，
 
 我一直都是接触一下没学过最喜欢的事情就是折腾博客
-
-从10年接触到`asp`网站程序，再到11年接触到`phpwind`论坛程序，再到12年接触都到`熊海ASP博客`程序，然后从13年接触到`WordPress`到后面`emlog/hexo/minicms/zblog/typecho/TP-log/Tinyblog/TKblog`一直折腾没停过
