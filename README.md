@@ -23,4 +23,14 @@
 
 我一直都是接触一下没学过最喜欢的事情就是折腾博客
 
+## About me
+
+I want to leave my presence on the Internet so that no one will notice when I die.
+
+Maybe someone will pray for me, maybe just get a laugh, but that's enough, at least you remember me, I'm happy, thanks!
+
+---
+
+The photo below was taken by me on an ocean-going fishing boat (Russian waters), although it was an unpleasant experience. But I love the sea, and I want to share it with you.
+
 ![](https://weebs.neocities.org/img/22/2020-1221-2122-05.jpg)
