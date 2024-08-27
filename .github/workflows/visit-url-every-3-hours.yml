@@ -12,4 +12,4 @@ jobs:
     steps:
     - name: Send a request to the URL
       run: |
-        curl -X GET "https://qq.md/feed/rss/uprss.php" -H "User-Agent: GitHubActions"
+        curl -X GET "https://qq.md/" -H "User-Agent: GitHubActions"
