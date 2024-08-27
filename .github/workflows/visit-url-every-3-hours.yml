@@ -3,7 +3,7 @@ name: Visit URL Every 3 Hours
 on:
   schedule:
     # 每3个小时运行一次
-    - cron: '0 */3 * * *'
+    - cron: '0 */5 * * *'
 
 jobs:
   visit-url:
